@@ -5,7 +5,7 @@ Standalone `Police` export of the canonical Police-Thief P2P workspace.
 - This repository: [https://github.com/JCS1029/GRP00001-police-p2p](https://github.com/JCS1029/GRP00001-police-p2p)
 - Sibling Thief repository: [https://github.com/JCS1029/GRP00001-thief-p2p](https://github.com/JCS1029/GRP00001-thief-p2p)
 - Annotated submission tag: `v1.0-submission`
-- Frozen from canonical commit `90efeef262b9bb54d947f157e11e96cbe371d007`
+- Frozen from canonical commit `b35da356dc66642c2b1873a4d4847af768e76905`
 
 ```text
 uv python install 3.13
